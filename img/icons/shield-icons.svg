@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300"
+   height="300"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0, 2021-09-20)"
+   sodipodi:docname="shield-icons.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.92866692"
+     inkscape:cx="202.97913"
+     inkscape:cy="104.4508"
+     inkscape:window-width="1024"
+     inkscape:window-height="545"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient831">
+      <stop
+         style="stop-color:#1066dc;stop-opacity:1"
+         offset="0"
+         id="stop827" />
+      <stop
+         style="stop-color:#00ff5f;stop-opacity:1"
+         offset="1"
+         id="stop829" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2304"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1929"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1669"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1470"
+       is_visible="true"
+       lpeversion="1" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient831"
+       id="linearGradient833"
+       x1="20.677273"
+       y1="150"
+       x2="279.32273"
+       y2="150"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="M 263.42682,57.157068 159.96862,14.049493 a 25.945373,25.945373 0 0 0 -19.88336,0 L 36.62708,57.157068 c -9.645322,3.987453 -15.949807,13.417236 -15.949807,23.870822 0,106.96068 61.697717,180.89017 119.354107,204.92264 6.35836,2.64035 13.525,2.64035 19.88336,0 46.17899,-19.23675 119.40799,-85.67631 119.40799,-204.92264 0,-10.453586 -6.30448,-19.883369 -15.89591,-23.870822 z M 150.05388,252.54216 150,47.242325 244.78279,86.739645 C 243.0046,168.32073 200.54363,227.432 150.05388,252.54216 Z"
+       id="path6359"
+       style="stroke-width:0.538845;fill-opacity:1;fill:url(#linearGradient833)" />
+  </g>
+</svg>
