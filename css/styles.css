@@ -67,7 +67,7 @@
   background-color: black;
 }
 
-.secction-features {
+.secction-features, .secction-contents {
   background: #fafafa;
 }
 
@@ -114,18 +114,13 @@
   background-color: #fafafa;
 }
 
-/* Guides card */
-
-/*
-.container-guides {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  grid-gap: 35px;
-  margin: 0 auto;
-  padding: 40px 0;
+.color-cirlce {
+  height: 65px;
+  width: 65px;
+  border-radius: 50%;
 }
-*/
 
+/* Guides card */
 
 .card-guides {
   border: none;
