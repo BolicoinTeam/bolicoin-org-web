@@ -57,7 +57,7 @@
   background: rgb(100, 100, 100);
 }
 
-.list-footer-llink {
+.list-footer-llink, .list-no-decoration {
   list-style-type: none !important;
   margin: 0;
   padding: 8px 0px;

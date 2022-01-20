@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.46433346"
-     inkscape:cx="408.11188"
-     inkscape:cy="185.21172"
+     inkscape:zoom="1.3133334"
+     inkscape:cx="166.37056"
+     inkscape:cy="119.54315"
      inkscape:window-width="1024"
      inkscape:window-height="545"
      inkscape:window-x="0"
@@ -37,15 +37,15 @@
      id="defs2">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient831">
+       id="linearGradient959">
       <stop
          style="stop-color:#1066dc;stop-opacity:1"
          offset="0"
-         id="stop827" />
+         id="stop955" />
       <stop
          style="stop-color:#00ff5f;stop-opacity:1"
          offset="1"
-         id="stop829" />
+         id="stop957" />
     </linearGradient>
     <inkscape:path-effect
        effect="spiro"
@@ -69,21 +69,22 @@
        lpeversion="1" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient831"
-       id="linearGradient833"
-       x1="20.677273"
-       y1="150"
-       x2="279.32273"
-       y2="150"
-       gradientUnits="userSpaceOnUse" />
+       xlink:href="#linearGradient959"
+       id="linearGradient961"
+       x1="-690.08754"
+       y1="81.93567"
+       x2="-114.08754"
+       y2="81.93567"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.51761905,0,0,0.51761905,358.12818,107.58854)" />
   </defs>
   <g
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       d="M 263.42682,57.157068 159.96862,14.049493 a 25.945373,25.945373 0 0 0 -19.88336,0 L 36.62708,57.157068 c -9.645322,3.987453 -15.949807,13.417236 -15.949807,23.870822 0,106.96068 61.697717,180.89017 119.354107,204.92264 6.35836,2.64035 13.525,2.64035 19.88336,0 46.17899,-19.23675 119.40799,-85.67631 119.40799,-204.92264 0,-10.453586 -6.30448,-19.883369 -15.89591,-23.870822 z M 150.05388,252.54216 150,47.242325 244.78279,86.739645 C 243.0046,168.32073 200.54363,227.432 150.05388,252.54216 Z"
-       id="path6359"
-       style="stroke-width:0.538845;fill-opacity:1;fill:url(#linearGradient833)" />
+       d="M 274.22857,17.489526 H 25.77143 c -13.716905,0 -24.84571424,11.12881 -24.84571424,24.845714 v 165.6381 c 0,13.7169 11.12880924,24.84571 24.84571424,24.84571 h 99.38286 l -8.28191,24.84571 H 79.60381 c -6.884333,0 -12.422857,5.53853 -12.422857,12.42286 0,6.88434 5.538524,12.42286 12.422857,12.42286 h 140.79238 c 6.88434,0 12.42286,-5.53852 12.42286,-12.42286 0,-6.88433 -5.53852,-12.42286 -12.42286,-12.42286 h -37.26857 l -8.2819,-24.84571 h 99.38285 c 13.7169,0 24.84572,-11.12881 24.84572,-24.84571 V 42.33524 c 0,-13.716904 -11.12882,-24.845714 -24.84572,-24.845714 z m -8.2819,182.201904 H 34.053333 V 50.617144 H 265.94667 Z"
+       id="path131"
+       style="fill:url(#linearGradient961);fill-opacity:1;stroke-width:0.517619" />
   </g>
 </svg>
