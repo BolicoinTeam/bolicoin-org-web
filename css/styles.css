@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root {
+  --primary-color-a: #f7931eff;
+  --primary-color-b: #f0b944ff;
+  --secondary-color-a: #1b2630ff;
+  --secondary-color-b: #1b2642ff;
+}
+
+body {
+  font-family: Poppins;
+  background: #1b2630;
+}
+
+/* Buttons */
+.btn-boli:link, .btn-boli:visited {
+  background-color: var(--primary-color-a);
+  border: var(--primary-color-a);
+  color: #000; 
+}
+
+.btn-warning:hover, .btn-warning:active {
+  background-color: var(--primary-color-b);
+  border: var(--primary-color-b);
+}
+
+.btn-boli-outline:link, .btn-boli-outline:visited {
+  border-color: var(--primary-color-a);
+  color: var(--primary-color-a);
+}
+
+.btn-boli-outline:hover, .btn-boli-outline:active {
+  background-color: var(--primary-color-a);
+  border-color: var(--primary-color-a);
+  color: #000;
+}
+
+/* section gradient primary */
+.bg-primary-gradient {
+  background: linear-gradient(to right, var(--primary-color-b), var(--primary-color-a));
+}
+
+/* link dark and light */
+.dark-link:link, .dark-link:visited {
+  color: #000;
+  text-decoration: none;
+}
+
+.dark-link:hover, .dark-link:active {
+  color: #333333;
+  text-decoration: none;
+}
+
+.light-link:link, .light-link:visited {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.light-link:hover, .light-link:active {
+  color: #e4e4e4;
+  text-decoration: none;
+}
+
+/* brand */
+.logo {
+  height: 40px;
+}
+
+.logo-footer {
+  height: 60px;
+}
+
+@media only screen and (max-width: 365px) {
+  .logo {
+    height: 25px;
+  }
+
+  .logo-footer {
+    height: 40px;
+  }
+}
+
+
+/* Navbar styles */
+.navbar-dropdown {
+    background: rgb(255, 255, 255);
+    border-radius: 12px;
+    padding-inline: 20px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    color: rgb(0, 0, 0);
+}
+
+.navbar-link {
+  padding: 12px;
+  border-radius: 8px;
+}
+
+.navbar-link:hover {
+  box-shadow: rgb(0 0 0 / 8%) 0px 4px 14px;
+  background-color: white;
+  color: #212529;
+}
+
+.navbar-link::after, .navbar-style::before {
+  border-color: #e2e8f0;
+  word-wrap: break-word;
+}
+
+.font-weight-bold {
+  font-weight: bold;
+}
+
+/* navbar icons hover */ 
+
+.navbar-link:hover svg {
+  fill: #f0b944;
+}
+
+.nav-menu-divider {
+  width: 1px;
+  height: 32px;
+  margin: 0 16px;
+  background-color: hsla(0, 0%, 100%, 0.1);
+}
+
+.hero-boli {
+  background-image: radial-gradient(#304955ff, #1b2930ff);
+}
+
+/* menu small */
+
+.menu-body {
+  padding: 5px 0;
+}
+
+.border-radius-menu {
+  border-radius: 0;
+}
+
+/* Indicators */
+.indicator {
+  padding: 18px 16px;
+  border-radius: 24px;
+}
+
+.indicator-data {
+  font-weight: 500;
+  font-size: 32px;
+}
+
+.boliColorGradient {
+  background-image: radial-gradient(var(--primary-color-b), var(--primary-color-a));
+}
+
+.text-3d {
+  text-shadow: #000 1px 1px;
+}
+
+/* section four */
+.card-radius {
+  border-radius: 24px !important;
+}
+
+/* Footer bottom */
+.margin-botton-link ul li a {
+  padding: 0.5rem 0;
+}
+
+.footer-bottom {
+  background-color: #000;
+}
+
+.text-footer-bottom {
+  font-size: 0.875em;
+}
+
+.footer-link-tw:link, .footer-link-tw:visited {
+  color: #0084b4;
+  text-decoration: none;
+}
+
+.footer-link-tw:hover, .footer-link-tw:active {
+  color: #016285;
+  text-decoration: none;
+}
+
+.footer-link-fb:link, .footer-link-fb:visited {
+  color: #3b5998;
+  text-decoration: none;
+}
+
+.footer-link-fb:hover, .footer-link-fb:active {
+  color: #293b64;
+  text-decoration: none;
+}
