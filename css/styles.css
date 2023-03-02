@@ -198,3 +198,9 @@ body {
 .wallet-icon {
   fill: #f7931eff;
 }
+
+.color-cirlce {
+  height: 65px;
+  width: 65px;
+  border-radius: 50%;
+}
